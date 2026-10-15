@@ -1,0 +1,6 @@
+{
+  "name": "DisasterShield AI — Flood Emergency & Rescue Platform",
+  "description": "Locate safe shelters, request flood rescue assistance, view emergency contacts, and get AI flood preparedness guidance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
